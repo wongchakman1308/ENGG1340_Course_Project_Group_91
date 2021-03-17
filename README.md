@@ -13,4 +13,5 @@
 ### 5. Enjoy the game.
 
 ## list of feature: 
-### 1. Random values of investigator statistics 
+### 1. Random values of investigator statistics. The success rate of player's action and the occurrence rate of some special event will base on his/her investigator statistics.
+### 2. PVP system. Some monsters may come out and the player need to fight them to advancing the plot. 
