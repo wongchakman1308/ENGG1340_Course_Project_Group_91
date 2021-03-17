@@ -8,8 +8,8 @@
 ## Game rules: 
 ### 1. The player will first get some random numbers, to create his/ her investigator statistics. The game play will follow the statistics to judge whether the player's action is success or not.
 ### 2. Don't regenerate the random numbers to get a better statistics. 
-### 3. Try to avoid letting your character die. Once the character die, then game over.
-### 4. The save and load function are provided, but try not to use them to change your choices for a better game experience
+### 3. Try to avoid letting the character die. Once the character die, then gameover.
+### 4. The save and load function are provided, but try not to use them to change the choices made before for a better game experience
 ### 5. Enjoy the game.
 
 ## list of feature: 
