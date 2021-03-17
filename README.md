@@ -14,7 +14,7 @@
 
 ## list of features: 
 ### 1. Random values of investigator statistics. The success rate of player's action and the occurrence rate of some special event will base on his/her investigator statistics.(element 1)
-### 2. PVP system. Some monsters may come out and the player needs to fight them to advancing the plot. 
+### 2. Combat system. Some monsters may come out and the player needs to fight them to advance the plot. 
 ### 3. Different ending base on the choices of player, the player's choices will affect future plot of the game.
 ### 4. Inventory system. The player can pick up items in the map and store them in his/ her inventory and use them later.(element 2)
 ### 5. Save and load function. save and load function are proveide if the player want to have diffent ending.
